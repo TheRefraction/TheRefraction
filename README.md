@@ -51,11 +51,13 @@ When I'm not coding, I'm either composing music in FL Studio or studying languag
 ## Featured Projects
 
 ### [DESTORY](https://github.com/therefraction/DESTORY)
-> An RPG with a heartfelt story in which you don't have to fight. Chapter 2 in development... 
+> An RPG with a heartfelt story in which you don't have to fight. Chapter 2 in development...
+
 `GameMaker` `Music` `Sprites` 
 
 ### [Neptune/OS](https://github.com/TheRefraction/Neptune)
-> A small experimental 32-bit operating system coded in Assembly and C.  
+> A small experimental 32-bit operating system coded in Assembly and C.
+
 `Assembly` `C` `Hardware`
 
 ---
