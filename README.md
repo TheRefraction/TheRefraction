@@ -27,11 +27,13 @@ When I'm not coding, I'm either composing music in FL Studio or studying languag
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=flat&logo=kotlin&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8892BE?style=flat&logo=php&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 **Tools & Frameworks**
@@ -45,6 +47,9 @@ When I'm not coding, I'm either composing music in FL Studio or studying languag
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=flat&logo=gamemaker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/Postgre-336791?style=flat&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-F05032?style=flat&logo=angular&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ED8B00?style=flat&logo=firebase&logoColor=white)
 
 ---
 
