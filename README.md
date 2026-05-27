@@ -27,7 +27,7 @@ When I'm not coding, I'm either composing music in FL Studio or studying languag
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=flat&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=flat&logo=kotlin&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -35,6 +35,7 @@ When I'm not coding, I'm either composing music in FL Studio or studying languag
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8892BE?style=flat&logo=php&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![R](https://img.shields.io/badge/R-165CAA?style=flat&logo=r&logoColor=white)
 
 **Tools & Frameworks**
 
@@ -50,6 +51,7 @@ When I'm not coding, I'm either composing music in FL Studio or studying languag
 ![PostgreSQL](https://img.shields.io/badge/Postgre-336791?style=flat&logo=postgresql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-F05032?style=flat&logo=angular&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ED8B00?style=flat&logo=firebase&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-E32428?style=flat&logo=apache&logoColor=white)
 
 ---
 
