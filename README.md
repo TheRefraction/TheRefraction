@@ -1,7 +1,6 @@
 # Hi there, I'm Corentin HAUTEFAYE
 
 🎓 Third-year Computer Science student at the University of Technology of Belfort-Montbéliard (UTBM) | Expected graduation: 2028  
-🔍 Currently looking for a **6-month internship** starting from September 2026 as a Software/Computer Engineering Assistant  
 📍 Based in Belfort, France  
 
 ---
