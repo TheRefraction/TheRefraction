@@ -44,6 +44,7 @@ When I'm not coding, I'm either composing music in FL Studio or studying languag
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=flat&logo=virtualbox&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-74C365?style=flat&logo=neovim&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=flat&logo=gamemaker&logoColor=white)
