@@ -108,6 +108,6 @@ I'm a computer science student passionate about **low-level development**, **sof
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therefraction&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therefraction&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therefraction&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=therefraction&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" height="150" />
 </div>
