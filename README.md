@@ -17,7 +17,7 @@
 
 I'm a computer science student passionate about **low-level development**, **software architecture**, and **mathematics**. I enjoy taking deep dives into systems programming, under-the-hood execution, and complex problem-solving.
 
-* 🎮 **Indie Game Dev:** Currently developing **[DESTORY](https://github.com/therefraction/DESTORY)** — an RPG focused on narrative and choices rather than combat.
+* 🎮 **Indie Game Dev:** Currently developing **[DESTORY](https://therefraction.github.io/DESTORY/)** — an RPG focused on narrative and choices rather than combat.
 * 🎵 **Creative Pursuits:** When I'm away from the terminal, I compose music in **FL Studio** or study foreign languages.
 
 ---
@@ -75,7 +75,7 @@ I'm a computer science student passionate about **low-level development**, **sof
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/therefraction/DESTORY">DESTORY</a></h3>
+      <h3 align="center"><a href="https://therefraction.github.io/DESTORY/">DESTORY</a></h3>
       <p align="center">
         <em>An RPG with a heartfelt story where fighting isn't the solution.</em>
       </p>
